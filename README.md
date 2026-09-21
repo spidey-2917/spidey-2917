@@ -1,4 +1,4 @@
-<h1 align="center">Sup , I'mPiy Priyansh</h1>
+<h1 align="center">Sup , I'm Priyansh</h1>
 <h3 align="center">A passionate and adaptable developer from India</h3>
 
 - 🔭 I’m currently working on [MatchDex](https://github.com/spidey-2917/MatchDex)
